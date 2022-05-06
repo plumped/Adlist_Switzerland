@@ -18,3 +18,7 @@ unitycms.io
 casalemedia.com
 js-sec.indexww.com
 htlb.casalemedia.com
+https://ib.adnxs.com
+https://securepubads.g.doubleclick.net
+https://cdn.adsafeprotected.com
+https://connect.facebook.net
